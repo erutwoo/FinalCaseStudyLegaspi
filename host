@@ -1,0 +1,8 @@
+QC               ansible_host=192.168.1.1
+Caloocan         ansible_host=10.0.0.2
+MANILA           ansible_host=192.168.2.1
+
+[routers]
+QC
+Caloocan
+MANILA
